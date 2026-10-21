@@ -2,7 +2,7 @@
 
 Portal estático para reunir publicações e acompanhar rotinas locais. Usa HTML, CSS, JavaScript e scripts Python, com nginx e autenticação Basic Auth no Ubuntu/WSL.
 
-Este repositório é um **esqueleto reutilizável**: o catálogo e o painel de jobs começam vazios, sem histórico de uma instalação particular. O código foi desenvolvido com assistência de IA; alterações precisam passar por revisão, testes e verificação do destino Git antes de serem publicadas.
+Este repositório é um **esqueleto reutilizável**: o catálogo e o painel de jobs começam vazios, sem histórico de uma instalação particular. Toda alteração passa por revisão, testes automatizados e verificação do destino Git antes de ser publicada.
 
 ## O que o projeto faz
 
